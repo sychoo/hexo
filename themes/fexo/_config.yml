@@ -63,7 +63,7 @@ page_nav_style: CIRCLE  # CIRCLE|ROUND_RECT
 
 # 面包屑
 breadcrumb:
-  isShow: false # true|fase
+  isShow: true # true|fase
 
 # 盒子
 toolbox:
@@ -82,7 +82,7 @@ link_slogan:
 # set backtop show or hide
 backtop:
   home: false
-  archive: false
+  archive: true
   category: true
   tag: true
   post: true
