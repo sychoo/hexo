@@ -17,7 +17,7 @@ home_nav:
   - name: About
     url: /bio
     target_blank: false
-    
+
   - name: Blog
     url: /archives
     target_blank: false #不在新页面打开
@@ -26,8 +26,8 @@ home_nav:
     url: /photos
     target_blank: false #在新页面打开
 
-  - name: Project
-    url: /project
+  - name: Projects
+    url: /projects
     target_blank: false
 
   - name: Contact
