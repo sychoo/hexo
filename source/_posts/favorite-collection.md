@@ -6,29 +6,185 @@ tags:
 
 Hey everyone, welcome to my blog! This is my very first post, and I will talk about all my favorite things in this page.
 
-## Places
 
-### Cities
-#### Boston
-#### Suzhou
-#### Shanghai
+# [**Places**](#Places)
+
+### [Cities](#Cities)
+
+* Boston
+* Suzhou
+* Shanghai
+
 [//]: # (Maybe San Francisco & Tokyo in the future)
 
-### Restaurants
+### [Restaurants](#Restaurants)
 
-### Running Paths
+* Asian Kitchen (Wilkes-Barre)
 
-## Music & Albums
+### [Running Paths](#Running-Paths)
 
-## TED Talks
+* [Luzerne County Levee Trail]() (Kington, PA)
+* [Memorial Dr]() (Boston, MA)
+* [Liaohe Rd 辽河大路]() (Liaoyuan, Jilin, CN)
+* [Hawkins Creamery Rd]() (Gaithersburg, MD)
 
-## TV Shows
+[//]: # (Maybe San Francisco Golden Gate Bridge in the future)
 
-## Movies
 
-## Stars
+# [**Music, Albums and Artists**](#Music-Albums-and-Artists)
 
-## Moments
+### [Music](#Music)
+
+* [**Bad Girls**](https://youtu.be/2uYs0gJD-LE) | MIA
+* [**Hotel California**]() | Eagles
+
+### [Albums](#Albums)
+
+* [**Ghost Stories**]() | Coldplay
+
+### [Artists](#Artists)
+* **Alizée** | France
+* **Taylor Swift** | US
+* **Emma Watson** | US
+* **Selena Gomez** | US
+* **Anna Kendrick** | US
+* **Kristen Stewart** | US
+* **Amanda Crew** | US
+* **Backstreet Boys** | US
+* **Justin Bieber** | US
+* **Camila Cabello** | US
+* **One Directions** | US
+
+
+# [**Videos**](#Videos)
+
+### **Dad** | [Liaoyuan](https://youtu.be/ORaoYN46rtQ) | [SkyPixel](https://www.skypixel.com/videos/bfefc31e-544c-414a-b3fb-30f7bf0b75ba)
+### **Dad** | [Liaoyuan Night View](https://youtu.be/9NbQVGLuOJs) | [SkyPixel](https://www.skypixel.com/videos/31b569c3-d5bc-4c98-afc7-40697900ecd1)
+### **Alizée** | [En Concert](https://youtu.be/1O7905zonUA)
+### **Taylor Swift** | [Reading Opens A World of Possible](https://players.brightcove.net/1543299976/rkfIuUeWU_default/index.html?videoId=3864965915001)
+### **Emma Watson** | [I'm A Feminist](https://youtu.be/c9SUAcNlVQ4)
+### **Steve Jobs** | [How to hire, manage, and lead people](https://www.youtube.com/watch?v=rQKis2Cfpeo&feature=youtu.be)
+### **Lyft** | [Thank you, Lamont](https://youtu.be/CJub8XYmzt4)
+### **NFL** | [Best SuperBowl Half-Time Show](https://youtu.be/c9cUytejf1k)
+### **Volvo** | [New Volvo S90](https://youtu.be/uHPC6KaB344)
+### **It's On Us** |  [It's Illogical: The Wedding Caterer](https://youtu.be/VYkB-E34fJs)
+### **Harry Potter Admirer** | [A Conversation Between JK Rowling and Daniel Radcliffe](https://youtu.be/7BdVHWz1DPU)
+### **Apple** | [Designed by Apple in California](https://youtu.be/kt6Wne1szrg)
+### **Apple** | [Mac Pro Intro](https://youtu.be/IbWOQWw1wkM)
+### **Apple** | [The New Macbook Design](https://youtu.be/hajnEpCq5SE)
+### **Same Bro** | [Traveling Apple AirPods Review](https://youtu.be/-G2UqThvTnc)
+### **YRF Music** | [Aankhen Khuli 新娘嫁人了，新郎不是我](https://youtu.be/H2k1vnM6XfQ)
+### **Zee Music Company** | [Dhaakad - Dangal](https://youtu.be/0zFoHrvbRu4) 
+### **SpaceX** | [How Not to Land an Orbital Rocket Booster](https://youtu.be/bvim4rsNHkQ)
+
+
+# [**TED Talks**](#TED-Talks)
+
+### **Steve Wozniak** | [The Early Days](https://youtu.be/PwSyjz1off4) 
+
+### **Eddy Zhong** | [How School Makes Kids Less Intelligent](https://youtu.be/2Yt6raj-S1M)
+
+### **Tiffany W. Smith** | [The History of Human Emotions](https://www.ted.com/talks/tiffany_watt_smith_the_history_of_human_emotions?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare)
+
+### **Raffaello D'Andrea** | [The Astounding Athletic Power of Quadcopters](https://youtu.be/w2itwFJCgFQ)
+
+### **Tim Urban** | [Inside the Mind of a Master Procrastinator](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare)
+
+### **Emily Esfahani Smith** | [There's More To Life Than Being Happy](https://www.ted.com/talks/emily_esfahani_smith_there_s_more_to_life_than_being_happy?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare)
+
+### **Andy Puddicombe** | [All it takes is 10 mindful minutes](https://www.ted.com/talks/andy_puddicombe_all_it_takes_is_10_mindful_minutes)
+
+### **Eduardo Briceño** | [How to get better at the things you care about](https://www.ted.com/talks/eduardo_briceno_how_to_get_better_at_the_things_you_care_about?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)
+
+
+# [**Quotes**](#Quotes)
+
+> There must be more than this provincial life.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Belle*__
+> [活在当下](https://zh.wikihow.com/更好地活在当下)
+
+<div></div>
+> 人无远虑，必有近忧。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- 《论语_卫灵公》*__
+
+<div></div>
+> Fear can hold you prisoner. Hope can set you free.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- The Shawnshank Redemption*__
+
+<div></div>
+> No one has ever changed the world, by doing what the world has told them to do! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Eddy Zhong*__
+
+<div></div>
+> Happiness equals to F cubed--food, fun and friends! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Steve G . Wozniak*__
+
+<div></div>
+> Happiness equals to smiles minus frowns. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Steve G. Wozniak*__
+
+<div></div>
+> The closer you look, the less you see. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Now You See Me*__
+
+<div></div>
+> There is no excuse for not trying. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Barack Obama*__
+
+<div></div>
+> Worry less about what you wanna be, and worry more about what you wanna do. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Barack Obama*__
+
+<div></div>
+> The only way you succeed is by failing. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Michelle Obama*__
+
+<div></div>
+> The best managers are the great individual contributors. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Steve P. Jobs*__
+
+<div></div>
+> You do not have to be fearless, just don't let fear stop you. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Charlie Day*__
+
+<div></div>
+> Don't take yourself too seriously. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Charlie Day*__
+
+<div></div>
+> 没有永远的朋友，也没有永远的敌人，只有永远的利益。(We have no permanent allies, we have no permanent enemies, we only have permanent interests.)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Lord Palmerston*__
+
+# [**Books**](#Books)
+
+### **J.K. Rowlin** |
+
+
+# [**TV Shows**](#TV-Shows)
+
+### [**Silicon Valley**](http://www.hbo.com/silicon-valley) | 2014 - 
+### [**2 Broke Girls**](http://www.cbs.com/2-broke-girls) | 2011 - 2017
+### [**Impractical Jokers**]() | 
+
+
+# [**Movies**](#Movies)
+
+### [**Coco 寻梦环游记**]() | 2017
+### [**The Social Network**]() | 2010
+### [**Beauty and the Beast**]() | 2017
+### [**Harry Potter**]()
+### [**Pitch Perfect**]() | 2012 - 2017
+### [**Wonder Woman**]() | 2017
+### [**The Shawshank Redemption**]()
+### [**Adventureland**]()
+### [**The Twilight Saga**]()
+### [**The Perks of Being a Wallflower**]()
+### [**The Great Gatsby**]()
+### [**Now You See Me**]()
+### [**The Jungle Book**]()
+### [**The Bling Ring**]()
+### [**The Circle**](http://www.imdb.com/title/tt4287320/) | 2017
+### [**Now You See Me**](http://www.imdb.com/title/tt1670345/) | 2013 2016
+### [**Mission: Impossible**](http://www.imdb.com/title/tt0117060/) | 1966 - 2018
+### [**Bourne**](http://www.imdb.com/title/tt0372183/) | 2002 - 2016
+### [**Léon: The Professional**](http://www.imdb.com/title/tt0110413/) | 1994
+
+
+# [**Moments**](#Moments)
+``
+Hello World
+``
+
+`
+Hello World
+`
 
 ```
 Hello World

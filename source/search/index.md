@@ -1,5 +1,5 @@
 ---
-title: search
+title: Search
 layout: search
 comments: false
 ---

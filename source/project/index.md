@@ -1,5 +1,5 @@
 ---
-title: project
+title: Project
 layout: project
 comments: false
 ---

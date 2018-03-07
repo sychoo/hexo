@@ -1,5 +1,5 @@
 ---
-title: link
+title: Links
 layout: link
 comments: false
 ---

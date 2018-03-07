@@ -43,7 +43,7 @@ page_nav:
   - name: Blog
     url: /archives/
     target_blank: false # 不在新页面打开
-  - name: Cat.
+  - name: Categ.
     url: /category/
     target_blank: false
   - name: Tags
@@ -230,54 +230,6 @@ link:
 
 project:
   - type: personal
-    name: fexo
-    url: https://github.com/forsigner/fexo
-    intro: A minimalist design theme for hexo
-  # - type: company
-  #   name: Fexo
-  #   url: https://github.com/forsigner/fexo
-  #   intro: A minimalist design theme for hexo
-  - type: personal
-    name: beside
-    url: https://github.com/forsigner/beside
-    intro: I need you beside me
-  - type: personal
-    name: web-fontmin
-    url: https://github.com/forsigner/web-fontmin
-    intro: 字体子集化，在线提取你需要的字体
-  - type: personal
-    name: magic-check
-    url: https://github.com/forsigner/magic-check
-    intro: Beautify Radio and Checkbox with pure CSS
-  - type: personal
-    name: nice-bar
-    url: https://github.com/forsigner/nice-bar
-    intro: A nice and lightweight scrollbar
-  - type: personal
-    name: angular-nice-bar
-    url: https://github.com/forsigner/angular-nice-bar
-    intro: A nice and lightweight scrollbar in Angular
-  - type: personal
-    name: fo-popover
-    url: https://github.com/forsigner/fo-popover
-    intro: A nice popover for Angular
-  - type: personal
-    name: fo-tooltip
-    url: A nice tooltip for Angular
-    intro: https://github.com/forsigner/fo-tooltip
-  - type: personal
-    name: fo-modal
-    url: https://github.com/forsigner/fo-modal
-    intro: A nice modal for Angular
-  - type: personal
-    name: mocer
-    url: https://github.com/forsigner/mocer
-    intro: Setup a mock server easily
-  - type: personal
-    name: node-pngdefry
-    url: https://github.com/forsigner/node-pngdefry
-    intro: Repairing iPhone fried PNGs using Node.js
-  - type: personal
-    name: ng-simditor
-    url: https://github.com/forsigner/ng-simditor
-    intro: Angular directive for simditor
+    name: Wilkes Summer Research 2017
+    url: https://sychoo.github.io/2017/12/28/wilkes-research-summer-2017/
+    intro: Animal Image Dataset Processing and Classification
