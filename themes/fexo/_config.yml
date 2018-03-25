@@ -90,8 +90,8 @@ backtop:
   about: false
 
 donation:
-  show: false
-  btn_text: 支持一下
+  show: true
+  btn_text: Support Us
   tip: 扫一扫，支持forsigner
   items:
     - type: 微信
