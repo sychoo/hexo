@@ -142,6 +142,9 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 <div></div>
 > 没有永远的朋友，也没有永远的敌人，只有永远的利益。(We have no permanent allies, we have no permanent enemies, we only have permanent interests.)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Lord Palmerston*__
 
+<div></div>
+> It's how you rise from a fall that truly defines you as a man.
+
 # [**Books**](#Books)
 
 ### **J.K. Rowlin** |
