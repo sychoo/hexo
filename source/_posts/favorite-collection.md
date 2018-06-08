@@ -148,10 +148,13 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 > It's how you rise from a fall that truly defines you as a man.
 
 <div></div>
-> Do I Dare Disturb the Universe
+> Do I Dare Disturb the Universe?
 
 <div></div>
 > Life without love isn't living
+
+<div></div>
+> 社会总是在以一种公平的方式来维持它的平衡：它不会把一切最好的都给你，总会给你一些向往。这个向往的过程就叫生活。
 
 # [**Books**](#Books)
 
