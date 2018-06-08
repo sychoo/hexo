@@ -20,6 +20,7 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 ### [Restaurants](#Restaurants)
 
 * Asian Kitchen (Wilkes-Barre)
+* Royal House Buffet
 
 ### [Running Paths](#Running-Paths)
 
@@ -43,6 +44,7 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 * [**Ghost Stories**]() | Coldplay
 
 ### [Artists](#Artists)
+* **Emma Roberts** | US
 * **Alizée** | France
 * **Taylor Swift** | US
 * **Emma Watson** | US
@@ -145,9 +147,16 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 <div></div>
 > It's how you rise from a fall that truly defines you as a man.
 
+<div></div>
+> Do I Dare Disturb the Universe
+
+<div></div>
+> Life without love isn't living
+
 # [**Books**](#Books)
 
-### **J.K. Rowlin** |
+### **J.K. Rowlin** | Harry Potter Series
+### **Jimmy O Yang** | How To American
 
 
 # [**TV Shows**](#TV-Shows)
@@ -178,21 +187,15 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 ### [**Mission: Impossible**](http://www.imdb.com/title/tt0117060/) | 1966 - 2018
 ### [**Bourne**](http://www.imdb.com/title/tt0372183/) | 2002 - 2016
 ### [**Léon: The Professional**](http://www.imdb.com/title/tt0110413/) | 1994
-### [**We're the Millers**]() | 2013
-
+### [**We're the Millers**](https://www.imdb.com/title/tt1723121/?ref_=fn_al_tt_2) | 2013
+### [**Nerve**](https://www.imdb.com/title/tt3531824/?ref_=fn_al_tt_1) | 2016
+### [**Delirium**](https://www.imdb.com/title/tt1698647/?ref_=ttfc_fc_tt) | 2014
+### [**It's Kind of a Funny Story**](https://www.imdb.com/title/tt0804497/) | 2010
+### [**Palo Alto**](https://www.imdb.com/title/tt2479800/?ref_=nv_sr_1)| 2013
+### [**Wild Child**](https://www.imdb.com/title/tt1024255/?ref_=fn_al_tt_1) | 2008
 
 # [**Moments**](#Moments)
-``
-Hello World
-``
 
-`
-Hello World
-`
-
-```
-Hello World
-```
 >More info: [Server]()
 *This is Blue italic.* 
 
