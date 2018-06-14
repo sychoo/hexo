@@ -156,6 +156,8 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 <div></div>
 > 社会总是在以一种公平的方式来维持它的平衡：它不会把一切最好的都给你，总会给你一些向往。这个向往的过程就叫生活。
 
+<div></div>
+> Be careful of who and what you believe in. Find someone who you love fiercely and who loves you back the same way. And you treat them well and you know it's of value. Also, you shouldn't be scared of the world. The world should be scared of you!__*--Movie Ashby (2015)*__
 # [**Books**](#Books)
 
 ### **J.K. Rowlin** | Harry Potter Series
