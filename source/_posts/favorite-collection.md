@@ -158,6 +158,9 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 
 <div></div>
 > Be careful of what and who you believe in. Find someone who you love fiercely and who loves you back the same way. And you treat them well and you know it's of value. Also, you shouldn't be scared of the world. The world should be scared of you!__*--Movie Ashby (2015)*__
+
+<div></div>
+> Everything, no matter what it is, deserves its life.__*--My Friend Brendon*__
 # [**Books**](#Books)
 
 ### **J.K. Rowlin** | Harry Potter Series
