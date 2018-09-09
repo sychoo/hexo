@@ -161,6 +161,11 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 
 <div></div>
 > Everything, no matter what it is, deserves its life.__*--My Friend Brendon*__
+
+<div></div>
+> Good Things Come, For Those Who Wait.
+
+
 # [**Books**](#Books)
 
 ### **J.K. Rowlin** | Harry Potter Series
