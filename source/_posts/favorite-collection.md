@@ -165,6 +165,8 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 <div></div>
 > Good Things Come, For Those Who Wait.
 
+<div></div>
+> 我极致害怕的三件事: 朋友的渐行渐远，恋人的欺骗背叛，父母的白发苍苍。
 
 # [**Books**](#Books)
 
