@@ -170,6 +170,14 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 
 <div></div>
 > Instructions for living a life: Pay attention. Be astonished. Tell about it. __*--Mary Oliver*__
+
+<div></div>
+> The people we surround ourselves with either raise or lower our standards. They either help us to become the-best-version-of-ourselves or encourage us to become lesser versions of ourselves. No man becomes great on his own. No woman becomes great on her own. The people around them help to make them great.
+
+<div></div>
+> We all need people in our lives who raise our standards, remind us of our essential purpose, and challenge us to become the best-version-of-ourselves.
+
+<div></div>
 # [**Books**](#Books)
 
 ### **J.K. Rowlin** | Harry Potter Series
