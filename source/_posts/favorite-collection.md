@@ -178,6 +178,9 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 > We all need people in our lives who raise our standards, remind us of our essential purpose, and challenge us to become the best-version-of-ourselves.
 
 <div></div>
+> Life may take you to distant places, it's love that brings you home. We may not have it all together, but together we have it all.__*--Movie Little Italy*__
+
+<div></div>
 # [**Books**](#Books)
 
 ### **J.K. Rowlin** | Harry Potter Series
