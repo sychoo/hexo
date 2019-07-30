@@ -184,7 +184,7 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 > May your coming year be filled with magic and dreams and good madness. I hope you read some fine books and kiss someone who thinks you're wonderful, and don't forget to make some art - write or draw or build or sing or live as only you can. And I hope, somewhere in the next year, you surprise yourself.
 
 <div></div>
-> 人生有两个目标，一是探索自己的内心，二是探索外面的世界。
+> 人生有两个目标，一是探索自己的内心，二是探索外面的世界。__*--Grandpa*__
 <div></div>
 # [**Books**](#Books)
 
