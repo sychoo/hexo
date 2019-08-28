@@ -103,13 +103,12 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 
 > Matcha everything.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Jeanie Chen*__
 <div></div>
-
 > When life gives you lemons, make lemonade.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- A Pittsburgh Uber Driver*__
-<div></div>
 
+<div></div>
 > Lower your expectations. You will be much happier, and your life will be full of surprises! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- My Colleague Joseph Worku*__
-<div></div>
 
+<div></div>
 > There must be more than this provincial life.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Belle*__
 > [活在当下](https://zh.wikihow.com/更好地活在当下)
 
@@ -117,8 +116,7 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 > 人无远虑，必有近忧。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- 《论语_卫灵公》*__
 
 <div></div>
-> Fear can hold you prisoner. Hope can set you free.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- The Shawnshank Redemption*__
+> Fear can hold you prisoner. Hope can set you free. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- The Shawnshank Redemption*__
 
 <div></div>
 > No one has ever changed the world, by doing what the world has told them to do! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Eddy Zhong*__
