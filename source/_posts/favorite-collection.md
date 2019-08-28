@@ -101,6 +101,15 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 
 # [**Quotes**](#Quotes)
 
+> Matcha everything.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Jeanie Chen*__
+<div></div>
+
+> When life gives you lemons, make lemonade.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- A Pittsburgh Uber Driver*__
+<div></div>
+
+> Lower your expectations. You will be much happier, and your life will be full of surprises! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- My Colleague Joseph Worku*__
+<div></div>
+
 > There must be more than this provincial life.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Belle*__
 > [活在当下](https://zh.wikihow.com/更好地活在当下)
 
