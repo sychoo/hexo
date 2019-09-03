@@ -105,6 +105,7 @@ Hey everyone, welcome to my blog! This is my very first post, and I will talk ab
 <div></div>
 > When life gives you lemons, make lemonade.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- A Pittsburgh Uber Driver*__
 
+
 <div></div>
 > The best way to predict the future is to create it.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*-- Abraham Lincoln/Peter Drucker/Elon Musk*__
 
