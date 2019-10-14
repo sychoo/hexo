@@ -230,6 +230,10 @@ link:
 
 project:
   - type: personal
-    name: Wilkes Summer Research 2017
+    name: Wyvern Programming Language (A General-Purpose Programming Language to Support Adaptation and Assurance.
+    url: https://github.com/wyvernlang/wyvern
+    intro: In Collaboration with Dr. Jonathan Aldrich from Carnegie Mellon University
+  - type: personal
+    name: Wilkes Summer Research 2017 and 2018
     url: https://sychoo.github.io/2017/12/28/wilkes-research-summer-2017/
     intro: Animal Image Dataset Processing and Classification
